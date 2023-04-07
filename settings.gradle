@@ -1,0 +1,3 @@
+include ':currencyDetector'
+include ':app'
+rootProject.name = "MinorProject"

@@ -1,1 +1,1 @@
-# Android-Vision
+# MinorProject
